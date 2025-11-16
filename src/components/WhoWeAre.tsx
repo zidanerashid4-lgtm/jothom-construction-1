@@ -37,7 +37,7 @@ const WhoWeAre = () => {
             />
             <div className="absolute bottom-0 right-0 w-32 h-32 bg-[#00a4b8] flex items-center justify-center z-30">
               <div className="text-center">
-                <div className="text-4xl font-black">9+</div>
+                <div className="text-4xl font-black">8+</div>
                 <div className="text-xs tracking-wider">YEARS</div>
               </div>
             </div>
@@ -57,7 +57,7 @@ const WhoWeAre = () => {
 
           <div className="space-y-6 text-gray-300 leading-relaxed">
             <p className="text-lg">
-              For over 9 years, Jothom Construction has been at the forefront of architectural excellence,
+              For over 8 years, Jothom Construction has been at the forefront of architectural excellence,
               transforming visions into structural masterpieces that stand the test of time.
             </p>
             <p className="text-lg">
