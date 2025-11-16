@@ -88,16 +88,12 @@ const Hero = () => {
       </div>
 
       <div className="absolute top-8 left-8 z-40 flex flex-col items-center gap-3">
-        <div className="w-16 h-16 rounded-full bg-white/10 border border-white/20 flex items-center justify-center overflow-hidden">
+        <div className="w-32 h-32 bg-white border border-white/20 flex items-center justify-center overflow-hidden">
           <img
-            src="/Screenshot 2025-11-15 132907.png"
+            src="/Screenshot 2025-11-16 at 15.58.36.png"
             alt="Jothom Logo"
-            className="w-14 h-14 object-contain"
+            className="w-full h-full object-contain"
           />
-        </div>
-        <div className="text-4xl font-black tracking-tighter">
-          <span className="text-white">JOTHOM</span>
-          <span className="text-[#c72c7e]">.</span>
         </div>
       </div>
     </section>
