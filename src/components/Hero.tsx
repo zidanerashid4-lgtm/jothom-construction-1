@@ -92,7 +92,7 @@ const Hero = () => {
           <img
             src="/Screenshot 2025-11-15 132907.png"
             alt="Jothom Logo"
-            className="w-16 h-16 object-cover"
+            className="w-14 h-14 object-contain"
           />
         </div>
         <div className="text-4xl font-black tracking-tighter">
